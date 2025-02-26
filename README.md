@@ -35,7 +35,7 @@ I have served as a teaching assistant for the following courses at **City Univer
 ## Contact Information
 - **Email:** [zihanwu7-c@my.cityu.edu.hk](mailto:zihanwu7-c@my.cityu.edu.hk) | [wzh4464@gmail.com](mailto:wzh4464@gmail.com)
 - **Phone:** (+852) 9810 6427 | (+86) 188 5695 6416
-- **LinkedIn:** [Zihan Wu](#) *(Add your LinkedIn profile link here)*
+- **LinkedIn:** [Zihan Wu](https://www.linkedin.com/in/zihan-wu-5489a611a/) 
 
 ## Repository Overview
 This repository serves as a collection of my research projects, code implementations, and other related academic work. Contributions, feedback, and collaborations are welcome!
