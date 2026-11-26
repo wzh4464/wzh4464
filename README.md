@@ -4,6 +4,7 @@
 I received my Ph.D. in Electrical Engineering from the **City University of Hong Kong**, where I specialized in **machine learning**, **computer vision**, and **data mining**. My doctoral research explored scalable algorithms for pattern recognition, clustering, and computational intelligence, with applications in real-world measurement systems, blockchain technology, and biomedical image analysis. I now develop **memory systems for coding agents**.
 
 ## Research Interests
+- **Memory Systems for Coding Agents**
 - **Machine Learning**
 - **Computer Vision**
 - **Natural Language Processing**
@@ -33,7 +34,7 @@ I have served as a teaching assistant for the following courses at **City Univer
 - **Languages:** TOEFL: 107/120 (Speaking: 23)
 
 ## Contact Information
-- **Email:** [zihanwu7-c@my.cityu.edu.hk](mailto:zihanwu7-c@my.cityu.edu.hk) | [wzh4464@gmail.com](mailto:wzh4464@gmail.com)
+- **Email:** [wzh4464@gmail.com](mailto:wzh4464@gmail.com)
 - **Phone:** (+852) 9810 6427 | (+86) 188 5695 6416
 - **LinkedIn:** [Zihan Wu](https://www.linkedin.com/in/zihan-wu-5489a611a/) 
 
