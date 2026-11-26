@@ -1,7 +1,7 @@
 # Zihan Wu
 
 ## About Me
-I am a Ph.D. in Electrical Engineering at the **City University of Hong Kong**, specializing in **machine learning**, **computer vision**, and **data mining**. My research explores scalable algorithms for pattern recognition, clustering, and computational intelligence, with applications in real-world measurement systems, blockchain technology, and biomedical image analysis.
+I received my Ph.D. in Electrical Engineering from the **City University of Hong Kong**, where I specialized in **machine learning**, **computer vision**, and **data mining**. My doctoral research explored scalable algorithms for pattern recognition, clustering, and computational intelligence, with applications in real-world measurement systems, blockchain technology, and biomedical image analysis. I now develop **memory systems for coding agents**.
 
 ## Research Interests
 - **Machine Learning**
